@@ -1,4 +1,4 @@
-cleaEcomisi.module('tabs-healthy', ['vendor', function(){
+Ecomisi.module('tabs-healthy', ['vendor', function(){
 
   // Array de container-centers
   // Alterar cada container para algo mais verboso
